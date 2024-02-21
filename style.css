@@ -1,0 +1,48 @@
+body{
+	background-color: rgb(234, 182, 63);
+	/*background-image: url("background.jpg")*/
+}
+h1{
+	text-align: center;
+	color: darkreddiv;
+	border: 3px solid orangered;
+	padding: 3px;
+	margin: 10px;
+	border-radius: 20px;
+
+}
+li{
+	font-display: revert-layer;
+	color: blue;
+	font-stretch: expanded;
+
+}
+footer{
+	color: whitesmoke;
+}
+p{
+	color: darkblue;
+	font-family:revert-layer;
+	line-height: 30px;
+}
+link{
+	display: inline-block;
+}
+img{
+	float: left;
+	}
+.home{
+	color: rgba(168, 15, 214, 0.897);
+	border: 1px solid blueviolet ;
+	height: auto;
+	border-radius: 5px;
+	}
+.about-us{
+	color: rgba(127, 161, 255, 0.507);
+	border: 1px solid rgb(165, 31, 147);
+	border-color: pink;
+}
+
+
+
+
